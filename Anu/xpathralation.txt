@@ -1,0 +1,8 @@
+1 Parent To child                 : parent xpath/tagName of child
+2 GrandParent to child Relation   : GrandParent xpath//tagName of grand child
+3 Child to parent                 : child xpath/parent::parent tagName
+4 Grand child to Grand parent     : GrandChild xpath/ancestor::tagName of grand parent
+5 Elder Sibling toYounger Sibling : Elder sibling xpath/following-sibling::tagName of younger sibling
+6 Younger Sibling to elder Sibling: Younger sibling xpath/preceding-sibling::tagName of Elder sibling
+7 Elder cousin to Younger cousin  : Elder cousing xpath/following::tagName of younger Cousin
+8 Younger cousin to Elder cousin  : Younger cousin xpath/preceding::tagName of Elder cousin

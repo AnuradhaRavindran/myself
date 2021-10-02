@@ -1,0 +1,4 @@
+int arr[] = {3,4,5,2,2,1};
+int arr1[] = {6,2,1,8};
+1. Print unique elements in arr[]
+2. print the duplicates from arr1[]

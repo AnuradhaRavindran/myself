@@ -1,0 +1,15 @@
+um of digits:
+int number = 345;
+3 + 4 + 5 = 12
+// frame a generic condition
+whwnever the quotinet becomes 0, stop executing
+while (quotient not equalto  0){
+Logic:
+345/10 --> quotient = 34 (int)
+       --> remainder = 5 ( store)
+34/10 --> quotient = 3
+      --> remainder = 4 ( store)
+3/10  --> quotient = 0
+      --> remainder = 3  ( store)
+         3%10  ( num < den) --> num is returned as remainder
+}

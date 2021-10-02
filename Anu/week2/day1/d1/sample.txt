@@ -1,0 +1,10 @@
+STEPS FOR LOGIN TEST CASE
+*********
+// Step 1: Download and set the path 
+// Step 2: Launch the chromebrowser
+// Step 3: Load the URL
+// Step 4: Maximise the window
+// Step 5: Locate the username and type "demosalesmanager"
+// Step 6: Locate the password and type "crmsfa"
+// Step 7: Locate the Login button and click it
+// Step 9: Click CRM/SFA link

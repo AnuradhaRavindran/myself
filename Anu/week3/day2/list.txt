@@ -1,0 +1,29 @@
+ To add 
+        list.add("apple");
+        list.add("mango");
+        
+        To get Size:
+        list.size();
+        
+        To print:
+        System.out.println(list);
+        
+        Using get: should have index
+        
+        For(int i=0; int<listSize;i++){
+            System.out.println(list.get(i));
+        }
+        
+        Using for each:
+            No index value 
+            No reverse iteration
+        For(Datatype of source variable: sourcename)
+        for(String eachString: list){
+            System.out.println(eachString);
+        }
+        
+        To insert an element:
+        List.add(index,"value");
+        
+        To remove
+        List.remove(index)/remove("value")

@@ -1,0 +1,14 @@
+1.Design an Interface TaxCalculation with unimplemented methods below:
+  Include documentations for each method
+        void calcDeductions(String name, double HRA, double LTA)
+    void calcGrossIncome(String name, double netIncome, double deductions)
+    public int taxSlab()
+    public double CalcTaxandPublishValue()
+2. Design a second Interface IncomeCalculation with unimplemented method below:
+       public double calcNetIncome(String name, double income1, double income2)
+3. Implementation class: 
+       CalcIndividualsTax, CalcBusinessTax  
+       Implement TaxCalculation and IncomeCalculation interfaces
+       Add its own method in this class( which is not in the interface)
+4. Create a new class Execution class: ( with main method)
+       Try to implement all the above learnings ( from point 1 to point 9) 

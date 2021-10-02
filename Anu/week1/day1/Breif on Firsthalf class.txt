@@ -1,0 +1,80 @@
+Why JAVA:
+	*Simple
+	*Secure
+	*Platform Indipendent(WORA)
+	*Robust etc,
+
+
+Technical Reasons:
+	*Huge community support
+	*Easy Knowledge
+	*More frameowrks 
+
+=>WORA(write Once Run Anywhere)
+
+
+=>How much of java is required
+	*Class & Objects
+	*Data Types & Variables
+	*Keyword & Operators
+	*Access Modifiers
+	*Methods
+	=>Controle Statements
+	*Looping(for,while,do while,for each)
+	*Select Statments(if,if else, switch)
+	*Arrays
+	*Strings
+	*Regular Expressions
+	*Collections
+	*Constructor
+	*this,static
+	*OOPS(Inharitance,abstraction,encapsulation, polymorphism)
+	*Exception handeling
+	*Debugging
+
+
+=>How to create Project
+	File->new->maven->choose location
+
+
+=>How to create Package
+	src->New->Package->Packagename->Finish
+	*(.)in package means a subfolder.
+
+
+=>How to create Class
+	->pacakge->new->class->ClassName
+
+CLASS:
+=>How to create Class
+	->pacakge->new->class->ClassName
+->className should be same as filename
+->if we want to change className rename the filename.
+->Purple color words in calss are called 'Keywords'.
+->Use public access specifies as of now.
+	
+
+MAIN METHOD:
+=>How to create main method 
+	1.while creating class select the check box to create main.
+	2.we can give directly the method as below
+		public static void main(String[] args){}
+
+
+How to Print:
+->System.out.println("give your statment to print");
+
+
+SHORTCUTS:
+	*for formate ==> ctr+shift+f
+	*to run code => ctrl+f11
+	*sysout ==> syso+space
+
+
+TO VIEW PROJECT LOCATION
+	1.Right click->Properties->Resouce 
+	
+
+TO SHOW IN SYSTEM EXPLORER
+1.Right click->Properties->Resouce->click icon(System explorer)
+2.Right clic->Showin-> System explorer
